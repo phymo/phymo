@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Phymo
+[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/)  [! [![Gmail Badge](https://img.shields.io/badge/-murphzhou@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:murphzhou@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
+
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Languages :** Python, C, JavaScript
+-  **Hobbies :** Articles & Cooking :headphones:
+-  **Fact :** First solve the problem, then write the code :heart: 
+-  **Organisation :** 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![github stats](https://github-readme-stats.vercel.app/api?username=phymo&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+⭐️ From [Phymo](https://github.com/phymo)
