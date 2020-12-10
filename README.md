@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, C, JavaScript
--  **Hobbies :** Articles & Cooking :cook:
+-  **Languages :** Python :snake: | Java :coffee: | Javascript
+-  **Hobbies :** :cook:  :camera: :book:  :clapper:
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organisation :** 
 
@@ -32,7 +32,3 @@ Here are some ideas to get you started:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=phymo&show_icons=true)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-⭐️ From [Phymo](https://github.com/phymo)
