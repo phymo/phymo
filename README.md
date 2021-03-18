@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=phymo&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=phymo&theme=merko&show_icons=true)
 
