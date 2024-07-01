@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** Python :snake: | Java :coffee: | Javascript | Rust
 -  **Hobbies :** :cook:  :camera: :book:  :clapper:
--  **Fact :** First solve the problem, then write the code :heart: 
--  **Organisation :** 
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=phymo&theme=merko&show_icons=true)
